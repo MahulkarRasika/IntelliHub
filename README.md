@@ -31,3 +31,5 @@ CREATE TABLE devices (
     setting VARCHAR(100),
     type VARCHAR(100)
 );
+
+
